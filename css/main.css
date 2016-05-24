@@ -1,0 +1,110 @@
+#header {
+  background-image: url("../image/back-circle.jpg");
+  height: 200px;
+}
+
+#logo {
+  font-weight: bold;
+  float: left;
+}
+
+#header nav {
+  float: right;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.container {
+  width: auto;
+  margin: 0 auto;
+  padding: 20px 20px 0;
+}
+
+#header ul {
+  list-style-type: none;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0px;
+  padding-left: 0px;
+}
+
+#header li {
+  float: left;
+}
+
+#header a {
+  display: block;
+  width: 80px;
+  text-decoration: none;
+  color: black;
+}
+div.header {
+  width: 400px;
+  margin: 0 auto;
+}
+h1.title {
+  color: white;
+  margin-top: 50px;
+  text-align: center;
+}
+
+section {
+  width: auto;
+}
+
+.container h2 {
+  text-align: center;
+}
+
+.container p.subtitle {
+  text-align: center;
+}
+
+.second-ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+.second-ul li {
+  float: left;
+}
+
+.second-ul a {
+  text-decoration: none;
+  color: black;
+  display: block;
+  width: 150px;
+}
+
+.table {
+  margin-top: 0px;
+}
+
+div.row {
+  margin: 20px;
+  text-align: center;
+}
+
+.col-4 {
+  width: 250px;
+  display: inline-block;
+  border: 1px solid black;
+  background-image: url("../image/pic.png");
+  background-size: cover;
+}
+
+.info {
+  border: 1px solid red;
+  margin: 10px;
+  background-color: rgba(0,0,0,0.6);
+}
+
+.white {
+  color: white;
+}
+
+p.goto {
+  color: cyan;
+}
